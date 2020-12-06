@@ -1,0 +1,4 @@
+if [ -f ./ngrok.log ]; then
+    echo '' > ./ngrok.log
+fi
+ngrok start -config ./ngrok.yml textslack

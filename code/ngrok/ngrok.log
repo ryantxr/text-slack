@@ -1,0 +1,72 @@
+
+{"addr":"127.0.0.1:4040","lvl":"info","msg":"starting web service","obj":"web","t":"2020-12-06T00:27:31.306217759Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T00:27:31.785865892Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T00:27:31.786180748Z"}
+{"addr":"http://textslack.local:80","lvl":"info","msg":"started tunnel","name":"textslack (http)","obj":"tunnels","t":"2020-12-06T00:27:32.168866728Z","url":"http://abd1ee012f3f.ngrok.io"}
+{"addr":"http://textslack.local:80","lvl":"info","msg":"started tunnel","name":"textslack","obj":"tunnels","t":"2020-12-06T00:27:32.169133883Z","url":"https://abd1ee012f3f.ngrok.io"}
+{"id":"374f7187d5a5","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"139.138.91.212:62995","t":"2020-12-06T00:28:09.982665091Z"}
+{"id":"d1a55735d9a0","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"3.82.123.96:48097","t":"2020-12-06T01:04:58.827953593Z"}
+{"id":"d6315d057d15","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"139.138.91.212:63287","t":"2020-12-06T01:08:46.04918209Z"}
+{"id":"b386736d6cb5","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"139.138.91.212:63287","t":"2020-12-06T01:12:15.845244644Z"}
+{"id":"b5d8cd6b9554","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"52.72.24.132:25431","t":"2020-12-06T01:14:50.661998713Z"}
+{"id":"9e84d43fabf6","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"3.82.123.96:63201","t":"2020-12-06T01:15:22.484288008Z"}
+{"id":"bbdfa2fdb28e","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"18.233.250.246:27782","t":"2020-12-06T01:18:20.857715977Z"}
+{"err":"read EOF from remote peer","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T01:26:19.036636136Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T01:26:19.440782086Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T01:26:19.812620608Z"}
+{"err":"read tcp 10.0.2.15:43748-\u003e3.20.27.198:443: read: connection reset by peer","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T01:26:26.980592145Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T01:26:27.483163246Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T01:26:27.845499619Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"31da916021a3","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T01:58:42.681807297Z"}
+{"err":"read tcp 10.0.2.15:43750-\u003e3.20.27.198:443: read: connection reset by peer","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T01:58:47.318737615Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T01:58:47.72985479Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T01:58:48.116410393Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"84a4840cc8b5","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T01:58:54.700868909Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"fe33d7f59093","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T01:59:02.717074472Z"}
+{"err":"read EOF from remote peer","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T01:59:06.679562056Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T01:59:07.196825763Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T01:59:07.58143089Z"}
+{"err":"read EOF from remote peer","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T01:59:16.859396913Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T01:59:17.29838922Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T01:59:17.680821151Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"b4d15ccc7bb2","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T03:29:12.537075721Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"93108a048ca4","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T03:29:21.912415418Z"}
+{"err":"read tcp 10.0.2.15:43756-\u003e3.20.27.198:443: read: connection reset by peer","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T03:55:40.707541585Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T03:55:41.187840563Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T03:55:41.583681529Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"4f47ffc9174f","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T03:55:48.912533124Z"}
+{"clientid":"bf44deadcd5bfdbb0884ce2f74a7597a","id":"6718117b2fe8","lvl":"eror","msg":"heartbeat timeout, terminating session","obj":"csess","t":"2020-12-06T05:35:49.537074495Z"}
+{"err":"session closed","id":"b03e6014202d","lvl":"eror","msg":"session closed, starting reconnect loop","obj":"csess","t":"2020-12-06T05:35:49.556141768Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:35:59.558060732Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:36:10.062149899Z"}
+{"err":"Get https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:36:20.771746098Z"}
+{"err":"Get https://s3.amazonaws.com/dns.ngrok.com/tunnel.json: context deadline exceeded","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:36:31.668499209Z"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:36:33.106571437Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:36:45.34451554Z"}
+{"err":"Get https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:36:58.86282243Z"}
+{"err":"Get https://s3.amazonaws.com/dns.ngrok.com/tunnel.json: context deadline exceeded","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:37:13.699946212Z"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:37:21.303133404Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:37:41.644783739Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:38:06.406658298Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:38:36.065677897Z"}
+{"err":"Get https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=AAAA: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:39:16.069775088Z"}
+{"err":"Get https://s3.amazonaws.com/dns.ngrok.com/tunnel.json: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:39:56.103519162Z"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:40:26.104726889Z"}
+{"err":"dial tcp: i/o timeout","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:41:06.106603005Z"}
+{"err":"Get https://dns.google.com/resolve?cd=true\u0026name=tunnel.us.ngrok.com\u0026type=A: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:41:46.107795419Z"}
+{"err":"Get https://s3.amazonaws.com/dns.ngrok.com/tunnel.json: net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:42:26.109515834Z"}
+{"err":"resolved tunnel.us.ngrok.com has no records","id":"b03e6014202d","lvl":"eror","msg":"failed to reconnect session","obj":"csess","t":"2020-12-06T05:42:56.113515013Z"}
+{"lvl":"info","msg":"tunnel session started","obj":"tunnels.session","t":"2020-12-06T05:43:30.396577414Z"}
+{"id":"b03e6014202d","lvl":"info","msg":"client session established","obj":"csess","t":"2020-12-06T05:43:30.766848695Z"}
+{"id":"0ffb22109f7d","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"3.82.123.96:57827","t":"2020-12-06T05:44:45.32342358Z"}
+{"id":"8d3716a219ee","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"18.233.250.246:5898","t":"2020-12-06T05:46:28.368855702Z"}
+{"id":"eaa48166df94","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"52.72.24.132:33955","t":"2020-12-06T05:48:25.459527952Z"}
+{"id":"45c2b66cedf0","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"52.72.24.132:14792","t":"2020-12-06T05:52:23.289156301Z"}
+{"id":"9bdf1bff004e","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"3.82.123.96:33688","t":"2020-12-06T05:52:52.907849735Z"}
+{"id":"5f5b3a8db79e","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"52.72.24.132:20270","t":"2020-12-06T05:55:13.483778488Z"}
+{"id":"ac2c119fb979","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"52.72.24.132:23628","t":"2020-12-06T05:56:56.510229802Z"}
+{"id":"a7ab781cee3d","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"52.72.24.132:43970","t":"2020-12-06T06:14:08.797352849Z"}
+{"id":"4f0bdd69b92f","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"18.233.250.246:11710","t":"2020-12-06T06:16:17.651610753Z"}
+{"id":"819b048d79e9","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"3.82.123.96:55573","t":"2020-12-06T06:19:19.185413902Z"}
+{"id":"153e03d32166","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"18.233.250.246:37048","t":"2020-12-06T06:27:59.1449425Z"}
+{"id":"4a522e9e342e","l":"127.0.0.1:80","lvl":"info","msg":"join connections","obj":"join","r":"18.233.250.246:46707","t":"2020-12-06T06:28:51.229776252Z"}

@@ -1,0 +1,15 @@
+authtoken: 1aYjAHSeXHrCpXuO0LYRFcwA7o2_4FmjBTut5ntt63XSV8pfS
+region: us
+console_ui: true
+log_level: info
+log_format: json
+log: ngrok.log
+update: false
+update_channel: stable
+tunnels:
+  textslack:
+    addr: textslack.local
+    host_header: "textslack.local"
+    inspect: false
+    proto: http
+    
